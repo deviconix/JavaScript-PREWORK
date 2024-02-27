@@ -1,4 +1,4 @@
-# init repository html
+# init repository JavaScript-PREWORK
 
 > Each task will be in the corresponding branch
 
