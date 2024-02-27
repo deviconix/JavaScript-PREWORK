@@ -1,1 +1,1 @@
-console.log('start')
+let p1 = document.querySelector('p')
