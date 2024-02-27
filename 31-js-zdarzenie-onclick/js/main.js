@@ -1,9 +1,7 @@
 let btn = document.querySelector('button')
 
-function showAlert(e) {
+function showAlert() {
     alert('Klik działa!')
-    //debug
-    console.log(e)
 }
 
 btn.onclick = showAlert
