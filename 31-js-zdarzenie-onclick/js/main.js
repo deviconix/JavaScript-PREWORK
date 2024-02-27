@@ -1,1 +1,1 @@
-console.log('start')
+let btn = document.querySelector('button')
